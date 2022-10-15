@@ -19,5 +19,10 @@ public class MathUtilLive {
         System.out.println("5!= 120 ; actual = " + MathUtils.getFactoria(6));
 
         System.out.println("0!= 1 ; actual = " + MathUtils.getFactoria(0));
+        
+        // sua luc 10:18
+        System.out.println("1!= 1 ; actual = " + MathUtils.getFactoria(1));
+        
+        System.out.println("3!= 6 ; actual = " + MathUtils.getFactoria(3));
     }
 }
